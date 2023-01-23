@@ -20,4 +20,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitterkofte)](https://github.com/bitterkofte)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitterkofte&layout=compact)](https://github.com/bitterkofte)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitterkofte&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bitterkofte)
