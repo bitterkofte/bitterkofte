@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">A passionate frontend developer from Istanbul, TURKEY</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bitterkofte&label=Profile%20views&color=0e75b6&style=flat" alt="bitterkofte" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bitterkofte" alt="bitterkofte" /></a> </p>
 
 - 📫 How to reach me **bitterkofte@gmail.com**
 
