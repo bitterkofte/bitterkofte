@@ -20,5 +20,5 @@
   <br> <br> 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitterkofte&theme=midnight-purple)](https://github.com/bitterkofte) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitterkofte&layout=compact&theme=midnight-purple&card_width=500)](https://github.com/bitterkofte)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bitterkofte&layout=compact&theme=midnight-purple&card_width=200)](https://github.com/bitterkofte)
 
