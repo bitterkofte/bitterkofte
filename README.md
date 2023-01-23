@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Istanbul, TURKEY</h3>
 
 
-- 📫 How to reach me **bitterkofte@gmail.com**
+📫: **bitterkofte@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
