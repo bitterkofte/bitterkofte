@@ -7,15 +7,23 @@
 <h4 align="center">I specialize in building mobile responsive front-end UI applications that connect with API’s and other backend technologies. I’m passionate about learning new technologies and understand there is more than one way to accomplish a task. Though I am most proficient in building front-end applications using HTML, CSS, Javascript, and React, I am a quick learner and can pick up new tech stacks as needed. I believe that being a great developer is not using one specific language, but choosing the best tool for the job.</h3>
 
 <h3 align="left">Find me at:</h3>
+<a href="mailto:hasantalhahtc@gmail.com">
+    <picture><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/b9fe6a18-3cf1-4b41-9a5b-f08656375e25" width="40" /></picture>
+</a>
+ 
 <a href="https://linkedin.com/in/hasantalhacelik">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/21045770"> 
+ 
+<a href="https://stackoverflow.com/users/21045770">
     <img src="https://skillicons.dev/icons?i=stackoverflow" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/21045770"> 
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="40" />
+ 
+<a href="https://www.codewars.com/users/bitterkofte">
+    <picture><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/a56d7b7e-af40-4c8a-9b90-6d2452ad1dfc" width="40"/></picture>
 </a>
+
+ 
 <!-- 📫: **bitterkofte@gmail.com** -->
 
 <!-- <h3 align="left">Connect with me:</h3>
