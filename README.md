@@ -23,7 +23,102 @@
     <picture><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/a56d7b7e-af40-4c8a-9b90-6d2452ad1dfc" width="40"/></picture>
 </a>
 
- 
+<br>
+
+<h3 align="left">Programming Languages:</h3>
+<picture title="JavaScript">
+ <img src="https://skillicons.dev/icons?i=js" width="40" />
+</picture>
+ 
+<picture title="C">
+ <img src="https://skillicons.dev/icons?i=c" width="40" />
+</picture>
+ 
+<picture title="Python">
+ <img src="https://skillicons.dev/icons?i=python" width="40" />
+</picture>
+ 
+<picture title="C++">
+ <img src="https://skillicons.dev/icons?i=cpp" width="40" />
+</picture>
+ 
+<picture title="Matlab">
+ <img src="https://skillicons.dev/icons?i=matlab" width="40" />
+</picture>
+
+<br>
+
+<h3 align="left">Web Technologies:</h3>
+<picture title="React">
+ <img src="https://skillicons.dev/icons?i=react" width="40" />
+</picture>
+ 
+<picture title="Nextjs">
+ <img src="https://skillicons.dev/icons?i=nextjs" width="40" />
+</picture>
+ 
+<picture title="Redux">
+ <img src="https://skillicons.dev/icons?i=redux" width="40" />
+</picture>
+ 
+<picture title="Firebase">
+ <img src="https://skillicons.dev/icons?i=firebase" width="40" />
+</picture>
+ 
+<picture title="Bootstrap">
+ <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
+</picture>
+ 
+<picture title="HTML">
+ <img src="https://skillicons.dev/icons?i=html" width="40" />
+</picture>
+ 
+<picture title="CSS">
+ <img src="https://skillicons.dev/icons?i=css" width="40" />
+</picture>
+ 
+<picture title="SASS">
+ <img src="https://skillicons.dev/icons?i=sass" width="40" />
+</picture>
+ 
+<picture title="GIT">
+ <img src="https://skillicons.dev/icons?i=git" width="40" />
+</picture>
+ 
+<picture title="Tailwind CSS">
+ <img src="https://skillicons.dev/icons?i=tailwindcss" width="40" />
+</picture>
+ 
+<picture title="Styled Components">
+ <img src="https://skillicons.dev/icons?i=styledcomponents" width="40" />
+</picture>
+
+<br>
+
+<h3 align="left">Mobile Technologies:</h3>
+<picture title="React Native">
+ <img src="https://skillicons.dev/icons?i=react" width="40" />
+</picture>
+
+<br>
+
+<h3 align="left">Design Tools:</h3>
+<picture title="Adobe Illustrator">
+ <img src="https://skillicons.dev/icons?i=ai" width="40" />
+</picture>
+ 
+<picture title="Figma">
+ <img src="https://skillicons.dev/icons?i=figma" width="40" />
+</picture>
+ 
+<picture title="Adobe XD">
+ <img src="https://skillicons.dev/icons?i=xd" width="40" />
+</picture>
+  
+<picture title="Adobe Photoshop">
+ <img src="https://skillicons.dev/icons?i=ps" width="40" />
+</picture>
+ 
 <!-- 📫: **bitterkofte@gmail.com** -->
 
 <!-- <h3 align="left">Connect with me:</h3>
