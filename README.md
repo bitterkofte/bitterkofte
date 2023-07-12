@@ -20,7 +20,11 @@
 </a>
  
 <a href="https://www.codewars.com/users/bitterkofte">
-    <picture><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/a56d7b7e-af40-4c8a-9b90-6d2452ad1dfc" width="40"/></picture>
+    <picture title="Code Wars"><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/a56d7b7e-af40-4c8a-9b90-6d2452ad1dfc" width="40"/></picture>
+</a>
+ 
+<a href="https://leetcode.com/bitterkofte/">
+    <picture title="LeetCode"><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/fa042ea4-ae27-4cf6-b75f-b87e159404e8" width="40"/></picture>
 </a>
 
 <br>
