@@ -34,6 +34,10 @@
  <img src="https://skillicons.dev/icons?i=js" width="40" />
 </picture>
  
+<picture title="TypeScript">
+ <img src="https://skillicons.dev/icons?i=ts" width="40" />
+</picture>
+ 
 <picture title="C">
  <img src="https://skillicons.dev/icons?i=c" width="40" />
 </picture>
@@ -95,6 +99,13 @@
  
 <picture title="Styled Components">
  <img src="https://skillicons.dev/icons?i=styledcomponents" width="40" />
+</picture>
+
+<br>
+
+<h3 align="left">Back-end Technologies:</h3>
+<picture title="MongoDB">
+ <img src="https://skillicons.dev/icons?i=mongodb" width="40" />
 </picture>
 
 <br>
