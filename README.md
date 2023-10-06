@@ -77,25 +77,32 @@
 <picture title="Firebase">
  <img src="https://skillicons.dev/icons?i=firebase" width="40" />
 </picture>
- 
-<picture title="Bootstrap">
- <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
+
+<picture title="Vue">
+ <img src="https://skillicons.dev/icons?i=vue" width="40" />
 </picture>
  
 <picture title="HTML">
  <img src="https://skillicons.dev/icons?i=html" width="40" />
 </picture>
  
+<picture title="GIT">
+ <img src="https://skillicons.dev/icons?i=git" width="40" />
+</picture>
+
+<br>
+
+<h3 align="left">Styling Technologies:</h3>
 <picture title="CSS">
  <img src="https://skillicons.dev/icons?i=css" width="40" />
 </picture>
  
-<picture title="SASS">
- <img src="https://skillicons.dev/icons?i=sass" width="40" />
+<picture title="Bootstrap">
+ <img src="https://skillicons.dev/icons?i=bootstrap" width="40" />
 </picture>
  
-<picture title="GIT">
- <img src="https://skillicons.dev/icons?i=git" width="40" />
+<picture title="SASS">
+ <img src="https://skillicons.dev/icons?i=sass" width="40" />
 </picture>
  
 <picture title="Tailwind CSS">
