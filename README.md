@@ -13,25 +13,15 @@
  
 <div align="center">
 <h3>Find me at:</h3>
-<a href="mailto:hasantalhahtc@gmail.com">
- <picture><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/b9fe6a18-3cf1-4b41-9a5b-f08656375e25" width="40" /></picture>
-</a>
+<a href="mailto:hasantalhahtc@gmail.com"><picture><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/b9fe6a18-3cf1-4b41-9a5b-f08656375e25" width="40" /></picture></a>
  
-<a href="https://linkedin.com/in/hasantalhacelik">
- <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-</a>
+<a href="https://linkedin.com/in/hasantalhacelik"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
  
-<a href="https://stackoverflow.com/users/21045770">
- <img src="https://skillicons.dev/icons?i=stackoverflow" width="40" />
-</a>
+<a href="https://stackoverflow.com/users/21045770"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" /></a>
  
-<a href="https://www.codewars.com/users/bitterkofte">
- <picture title="Code Wars"><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/a56d7b7e-af40-4c8a-9b90-6d2452ad1dfc" width="40"/></picture>
-</a>
+<a href="https://www.codewars.com/users/bitterkofte"><picture title="Code Wars"><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/a56d7b7e-af40-4c8a-9b90-6d2452ad1dfc" width="40"/></picture></a>
  
-<a href="https://leetcode.com/bitterkofte/">
- <picture title="LeetCode"><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/fa042ea4-ae27-4cf6-b75f-b87e159404e8" width="40"/></picture>
-</a>
+<a href="https://leetcode.com/bitterkofte/"><picture title="LeetCode"><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/fa042ea4-ae27-4cf6-b75f-b87e159404e8" width="40"/></picture></a>
 </div>
 
 <!-- 
