@@ -11,9 +11,18 @@
  <img align="center" src="https://em-content.zobj.net/thumbs/120/google/350/flag-turkey_1f1f9-1f1f7.png" alt="c" width="20" height="20"/>
 󠁩󠁮󠁴󠁲󠁿</h3>
 
-<p align="center" weight="bold">
+<p align="justify" weight="bold">
  <strong>
- I specialize in building mobile responsive front-end UI applications that connect with API’s and other backend technologies. I’m passionate about learning new technologies and understand there is more than one way to accomplish a task. Though I am most proficient in building front-end applications using HTML, CSS, Javascript, and React, I am a quick learner and can pick up new tech stacks as needed. I believe that being a great developer is not using one specific language, but choosing the best tool for the job.
+  <p>
+   I'm Hasan, a driven and competitive individual with a passionate, thoughtful, and visionary approach to life. With a keen eye for detail and an insatiable drive for excellence, I thrive in the world of technology. A self-motivated in coding and front-end development, I specialize in using React, Next.js, Firebase, and Tailwind CSS to craft innovative and seamless digital experiences. I believe that my projects are not only visually stunning but also embody a thoughtful and purposeful touch that sets them apart.
+  </p>
+  <p>
+   Beyond the realms of coding, I'm an avid photographer, capturing the world through a unique lens and unraveling stories through the art of imagery. Always seeking to push boundaries and explore new horizons.
+  </p>
+  <p>
+   With a combination of technical expertise and creative insight, I continue to pave the way in the digital landscape, combining competitiveness with a passion for creating meaningful and impactful projects.
+  </p>
+
  </strong>
 </p>
 
