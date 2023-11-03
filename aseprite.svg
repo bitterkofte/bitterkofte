@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="katman_1" data-name="katman 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080.44 1080.44">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #242938;
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" width="1080.44" height="1080.44" rx="253.23" ry="253.23"/>
+  <image width="128" height="128" transform="translate(198.09 198.67) scale(5.34)" xlink:href="C:\Users\bulut\Downloads\Logo_Aseprite.png"/>
+</svg>
