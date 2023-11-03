@@ -283,10 +283,18 @@
      <picture title="Adobe XD">
       <img src="https://skillicons.dev/icons?i=xd" width="40" />
      </picture>
-       
+      
      <picture title="Adobe Photoshop">
       <img src="https://skillicons.dev/icons?i=ps" width="40" />
      </picture>
+      
+     <picture title="Adobe Lightroom">
+      <img src="https://github.com/bitterkofte/bitterkofte/blob/main/lightroom.svg" width="40" />
+     </picture>
+      
+     <!--<picture title="Aseprite">
+      <img src="https://github.com/bitterkofte/bitterkofte/blob/main/aseprite.svg" width="40" />
+     </picture>-->
     </td>
   </tr>
 </table>
