@@ -1,4 +1,10 @@
-<h1 align="center">Hello there, Hasan here</h1>
+<!-- <h1 align="center">Hello there, Hasan here</h1>-->
+<h1 align="center">hasan</h1>
+<p align="center" >
+<picture>
+ <img src="https://github.com/bitterkofte/bitterkofte/blob/main/cropped2-wave2.gif" height="60" />
+</picture>
+</p>
 
 <h3 align="center">
  Istanbul, Türkiye 
