@@ -1,6 +1,6 @@
 <!-- <h1 align="center">Hello there, Hasan here</h1>-->
 <h1 align="center">hasan</h1>
-<p align="center" >
+<p align="center">
 <picture>
  <img src="https://github.com/bitterkofte/bitterkofte/blob/main/cropped2-wave2.gif" height="60" />
 </picture>
@@ -16,7 +16,7 @@
  I specialize in building mobile responsive front-end UI applications that connect with API’s and other backend technologies. I’m passionate about learning new technologies and understand there is more than one way to accomplish a task. Though I am most proficient in building front-end applications using HTML, CSS, Javascript, and React, I am a quick learner and can pick up new tech stacks as needed. I believe that being a great developer is not using one specific language, but choosing the best tool for the job.
  </strong>
 </p>
- 
+
 <div align="center">
 <h3>Find me at:</h3>
 <a href="mailto:hasantalhahtc@gmail.com"><picture><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/b9fe6a18-3cf1-4b41-9a5b-f08656375e25" width="40" /></picture></a>
@@ -282,8 +282,6 @@
   </tr>
 </table>
  
-<br> <br> 
-
 <h2 align="center">Stats</h2>
 <div align="center" width="full">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitterkofte&layout=donut&theme=transparent&border_color=7211f6&disable_animations" alt="github_stat" disable_animations/>
