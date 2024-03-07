@@ -34,6 +34,8 @@
  
 <a href="https://stackoverflow.com/users/21045770"><img src="https://skillicons.dev/icons?i=stackoverflow" width="40" /></a>
  
+<a href="https://monkeytype.com/profile/bitterkofte"><picture title="monkeytype"><img src="./monkeytype.svg" width="40"/></picture></a>
+ 
 <a href="https://www.codewars.com/users/bitterkofte"><picture title="Code Wars"><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/a56d7b7e-af40-4c8a-9b90-6d2452ad1dfc" width="40"/></picture></a>
  
 <a href="https://leetcode.com/bitterkofte/"><picture title="LeetCode"><img src="https://github.com/bitterkofte/bitterkofte/assets/35665454/fa042ea4-ae27-4cf6-b75f-b87e159404e8" width="40"/></picture></a>
@@ -280,9 +282,9 @@
       <img src="https://skillicons.dev/icons?i=figma" width="40" />
      </picture>
       
-     <picture title="Adobe XD">
+     <!--<picture title="Adobe XD">
       <img src="https://skillicons.dev/icons?i=xd" width="40" />
-     </picture>
+     </picture>-->
       
      <picture title="Adobe Photoshop">
       <img src="https://skillicons.dev/icons?i=ps" width="40" />
