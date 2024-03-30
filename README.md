@@ -272,6 +272,10 @@
      <picture title="React Native">
       <img src="https://skillicons.dev/icons?i=react" width="40" />
      </picture>
+      
+     <picture title="Flutter">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40" />
+     </picture>
     </td>
     <td align="center">
      <picture title="Adobe Illustrator">
