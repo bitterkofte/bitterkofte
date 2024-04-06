@@ -307,7 +307,7 @@
  
 <h2 align="center">Stats</h2>
 <div align="center" width="full">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitterkofte&layout=donut&theme=transparent&border_color=7211f6&disable_animations" alt="github_stat" disable_animations/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitterkofte&layout=donut&theme=transparent&border_color=2a353f&title_color=596f83&text_color=69839a&disable_animations" alt="github_stat" disable_animations/>
 </div>
 
 <br>
