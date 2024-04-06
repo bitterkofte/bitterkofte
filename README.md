@@ -307,11 +307,15 @@
  
 <h2 align="center">Stats</h2>
 <div align="center" width="full">
+ <picture title="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitterkofte&layout=donut&theme=transparent&border_color=2a353f&title_color=596f83&text_color=69839a&disable_animations" alt="github_stat" disable_animations/>
+ </picture>
 </div>
 
 <br>
 
 <div align="center" width="full">
+ <picture title="Codewars Stats">
   <img src="https://www.codewars.com/users/bitterkofte/badges/large" alt="codewars_stat" />
+ </picture>
 </div>
